@@ -25,7 +25,15 @@ Frontend Developer
 
 ## Experience
 
+production of cabinet / built-in furniture from laminated chipboard
+
 ## Education
 
+- Rolling Scopes School Frontend Cource
+
+- Electronic Equipment Engineer in
+
+Belarusian State University of Informatics and Radioelectronics (BSUIR)
+(1997-2002)
 
 ## English

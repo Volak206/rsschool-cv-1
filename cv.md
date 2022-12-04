@@ -12,12 +12,20 @@ Frontend Developer
 
 ## About Me
 
+
 ## Skills
+- **HTML, CSS (SASS/SCSS, BEM)**
+- JavaScript (basic)
+- Git / GitHub
+- Chrome DevTools
+- Figma
 
 ## Code Examples
+
 
 ## Experience
 
 ## Education
+
 
 ## English
